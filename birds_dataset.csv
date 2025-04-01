@@ -1,0 +1,345 @@
+species,island,bill_length_mm,bill_depth_mm,flipper_length_mm,body_mass_g,sex,year
+King,South Georgia,50.1,13.7,240,4903,male,2011
+Emperor,South Georgia,43.6,14.0,231,5103,female,2012
+Emperor,Macquarie,36.2,15.6,176,5262,female,2010
+Emperor,South Georgia,55.2,20.6,205,3971,female,2012
+King,South Georgia,51.0,17.9,222,5521,female,2010
+Macaroni,Macquarie,41.0,19.9,214,3287,male,2010
+King,South Georgia,46.0,17.2,220,3579,male,2011
+Macaroni,South Georgia,46.0,13.5,171,5437,female,2011
+Macaroni,Macquarie,48.8,14.3,237,3162,female,2011
+Emperor,Macquarie,56.5,19.5,205,5352,female,2011
+Macaroni,South Georgia,35.4,17.4,213,3799,male,2011
+Emperor,Ross,37.2,14.6,200,5315,male,2010
+Macaroni,Macquarie,41.5,14.4,209,3779,male,2011
+King,South Georgia,54.6,17.8,211,5467,female,2010
+King,South Georgia,54.8,20.4,180,5139,male,2010
+Macaroni,Ross,39.1,16.4,236,3313,male,2012
+King,Ross,44.9,13.5,185,3991,male,2012
+Emperor,South Georgia,55.3,17.4,222,3344,female,2010
+King,South Georgia,38.0,18.4,185,4020,male,2010
+Emperor,Ross,45.6,13.5,193,4251,female,2012
+King,Ross,45.3,20.6,225,3040,male,2011
+King,South Georgia,52.1,14.6,229,3309,male,2011
+Emperor,South Georgia,48.1,18.6,186,3464,male,2012
+King,South Georgia,56.6,20.2,234,4810,female,2011
+Macaroni,Ross,35.4,13.6,211,3074,female,2012
+Emperor,South Georgia,56.1,13.1,194,5104,female,2011
+Emperor,Macquarie,51.8,13.1,227,3931,female,2010
+King,Ross,50.6,13.0,210,5222,male,2012
+Macaroni,Ross,52.0,19.1,203,3323,female,2010
+King,Macquarie,37.9,16.3,203,5409,female,2011
+Macaroni,Ross,46.3,17.6,240,3772,female,2010
+Emperor,Ross,37.8,13.7,234,4941,male,2011
+King,South Georgia,47.9,17.2,231,4286,male,2011
+King,South Georgia,36.9,14.2,174,5385,male,2011
+Emperor,South Georgia,47.3,18.2,218,3719,male,2011
+King,Macquarie,36.5,17.1,203,5609,female,2012
+Macaroni,Macquarie,48.5,20.6,225,3018,male,2010
+Macaroni,Macquarie,46.6,15.9,223,5786,female,2010
+Emperor,Macquarie,39.6,14.2,208,3802,male,2012
+King,South Georgia,40.2,14.8,238,5843,male,2012
+King,South Georgia,45.8,15.7,212,4303,male,2012
+King,South Georgia,41.6,16.6,201,4938,female,2012
+Emperor,South Georgia,42.8,20.7,184,3108,male,2010
+Emperor,Macquarie,42.9,15.5,187,5389,male,2010
+King,Ross,40.4,16.9,192,4873,male,2012
+King,Macquarie,51.6,14.7,204,4723,female,2010
+King,Ross,45.1,17.2,198,4482,male,2012
+Emperor,South Georgia,38.9,13.8,188,3788,male,2011
+Emperor,South Georgia,54.6,13.4,219,5609,female,2010
+Emperor,South Georgia,36.5,19.9,183,4118,male,2011
+King,Ross,57.0,20.8,186,5838,male,2011
+Macaroni,Macquarie,46.2,19.1,211,3755,female,2010
+King,Macquarie,39.7,16.5,233,4847,male,2011
+King,Ross,48.5,20.8,198,3424,female,2011
+Macaroni,Macquarie,41.1,15.4,225,4103,male,2012
+King,South Georgia,43.3,17.1,178,4874,male,2011
+Emperor,Ross,46.7,17.6,178,3382,female,2012
+Emperor,Macquarie,59.3,14.2,174,3127,male,2012
+Macaroni,Macquarie,52.8,19.0,215,3015,female,2012
+Emperor,Ross,44.4,18.0,232,5424,female,2011
+King,Macquarie,38.9,20.3,188,4962,male,2010
+Macaroni,South Georgia,54.7,18.8,176,5362,male,2010
+Emperor,South Georgia,53.8,18.2,227,5634,male,2011
+King,South Georgia,53.8,17.5,184,3896,female,2011
+Macaroni,Macquarie,52.9,15.5,194,4261,female,2012
+Macaroni,Macquarie,40.0,18.1,219,4084,female,2010
+Macaroni,Ross,57.0,16.8,198,4204,female,2011
+Emperor,Macquarie,58.9,17.5,192,3784,male,2010
+Macaroni,Ross,56.0,14.1,199,3442,female,2012
+Macaroni,Macquarie,46.1,19.8,202,4120,male,2011
+Macaroni,South Georgia,57.6,13.6,189,3759,male,2011
+Macaroni,Macquarie,36.2,15.8,188,5317,female,2011
+King,Macquarie,35.8,16.4,190,5752,male,2012
+Macaroni,South Georgia,37.6,15.4,221,3227,female,2010
+King,South Georgia,58.3,16.1,204,4908,male,2010
+Macaroni,South Georgia,53.3,20.5,226,5788,male,2010
+King,Ross,59.9,17.0,223,3006,male,2011
+Macaroni,Ross,52.2,20.8,209,3625,male,2011
+Emperor,South Georgia,52.9,16.5,210,5179,female,2010
+Macaroni,Macquarie,53.4,15.5,181,5188,female,2011
+King,South Georgia,46.3,19.9,213,5481,female,2011
+Emperor,South Georgia,46.5,16.6,231,4690,male,2011
+King,Macquarie,48.6,15.0,173,3914,female,2011
+Emperor,South Georgia,41.7,20.6,194,5469,male,2012
+Emperor,Macquarie,49.3,17.0,191,4762,male,2011
+Emperor,Ross,37.6,15.1,203,4650,female,2010
+Emperor,Macquarie,53.9,17.0,216,4222,female,2010
+King,Ross,59.8,20.3,220,3702,male,2010
+Macaroni,Macquarie,38.5,20.6,230,3217,male,2010
+King,South Georgia,38.5,20.1,179,4097,female,2012
+Emperor,Macquarie,44.8,18.5,224,4998,male,2010
+King,Macquarie,35.3,15.4,234,5746,female,2012
+Emperor,Macquarie,54.7,20.2,230,4955,female,2012
+Macaroni,Ross,41.6,13.5,192,4053,female,2010
+Macaroni,South Georgia,39.0,17.3,219,4980,female,2011
+Macaroni,Ross,44.4,15.0,221,4786,female,2010
+Macaroni,South Georgia,43.6,16.5,171,4287,male,2011
+Macaroni,South Georgia,50.4,14.0,210,5130,female,2010
+Emperor,Ross,40.4,19.3,233,3597,female,2011
+King,South Georgia,36.0,14.6,172,3716,male,2012
+Emperor,South Georgia,57.9,16.5,226,5131,female,2011
+King,South Georgia,52.8,16.3,216,4449,male,2010
+King,South Georgia,48.5,18.9,197,5898,female,2010
+King,Ross,45.9,18.1,234,3173,female,2012
+King,Ross,54.0,19.1,229,3778,female,2011
+Emperor,Macquarie,42.1,13.7,193,4361,female,2011
+Emperor,Macquarie,35.4,13.7,190,5472,male,2012
+Emperor,Macquarie,38.7,16.8,188,5594,male,2012
+King,South Georgia,56.8,20.5,174,5257,male,2011
+Emperor,South Georgia,53.7,13.8,229,4813,female,2010
+Macaroni,Macquarie,59.1,17.8,224,5985,female,2010
+Emperor,South Georgia,44.0,20.0,189,5505,male,2011
+King,Ross,56.8,14.4,174,3721,female,2011
+Macaroni,Macquarie,56.2,19.8,240,5054,male,2010
+Macaroni,Macquarie,44.5,17.1,222,3941,male,2010
+Emperor,Ross,51.8,18.7,178,5690,female,2012
+Macaroni,Ross,53.3,18.2,195,4839,female,2012
+Emperor,Macquarie,56.5,20.9,190,3912,male,2011
+King,Macquarie,53.7,15.1,197,3900,male,2012
+Macaroni,Macquarie,36.1,13.1,187,5460,male,2012
+Macaroni,Ross,41.5,14.6,191,4684,female,2010
+Emperor,Ross,37.0,16.5,212,3985,female,2012
+Macaroni,South Georgia,56.9,18.4,208,5027,male,2010
+King,Macquarie,49.8,13.1,230,5880,male,2012
+King,South Georgia,50.2,20.8,208,5994,female,2011
+Emperor,Macquarie,57.3,19.2,204,3936,male,2012
+Macaroni,South Georgia,36.0,19.6,237,5082,female,2011
+Macaroni,Ross,55.8,16.6,230,3229,female,2010
+Emperor,South Georgia,44.6,13.8,208,5898,female,2012
+Macaroni,South Georgia,35.2,13.6,211,3504,male,2010
+King,Ross,43.8,16.6,180,5378,female,2012
+Emperor,Macquarie,46.2,20.9,238,5814,female,2010
+King,Macquarie,39.7,15.7,220,5128,male,2011
+Emperor,South Georgia,44.3,17.0,222,5541,female,2011
+Emperor,Ross,50.9,14.6,226,3075,male,2010
+Emperor,Macquarie,41.4,20.1,217,4995,female,2011
+Emperor,South Georgia,41.2,14.2,206,5059,female,2010
+King,Ross,46.5,20.1,203,4622,male,2011
+Macaroni,Macquarie,56.2,14.6,171,5598,female,2012
+Macaroni,Ross,42.9,15.4,207,3930,female,2011
+King,Ross,55.4,17.5,180,5505,female,2010
+Emperor,Ross,45.7,20.4,172,3352,male,2010
+King,Ross,47.6,14.3,213,3742,male,2011
+King,Macquarie,48.5,16.5,227,4616,male,2011
+Emperor,Ross,39.5,15.5,236,3518,male,2012
+Emperor,South Georgia,51.1,20.7,203,4985,female,2010
+King,Ross,35.3,16.7,170,3266,female,2011
+Macaroni,South Georgia,45.2,19.4,174,4969,female,2012
+Emperor,Ross,47.1,17.1,217,5421,female,2012
+King,South Georgia,52.9,15.8,194,3968,female,2010
+Macaroni,Ross,41.9,16.2,194,4026,male,2011
+Emperor,Macquarie,45.4,20.6,193,4525,male,2011
+Macaroni,Macquarie,53.6,13.4,184,5342,female,2010
+King,Ross,48.4,18.7,220,3877,female,2011
+King,Macquarie,35.4,19.4,197,5598,male,2011
+King,Ross,47.6,13.3,234,5791,female,2010
+Macaroni,South Georgia,43.6,15.7,188,5352,male,2012
+Emperor,South Georgia,37.4,19.8,202,5522,male,2011
+Macaroni,Ross,39.5,20.7,221,3579,female,2010
+Emperor,Macquarie,48.2,19.8,204,3130,female,2010
+Macaroni,Ross,50.7,14.1,209,3857,male,2012
+King,South Georgia,59.4,17.2,195,4848,female,2012
+Macaroni,Ross,44.6,13.6,238,4595,female,2012
+Emperor,South Georgia,39.7,20.3,207,4309,female,2010
+Emperor,Macquarie,44.5,13.2,217,3256,female,2011
+Emperor,South Georgia,59.0,13.4,174,4308,female,2010
+Emperor,South Georgia,58.5,16.3,227,3220,female,2010
+Macaroni,Ross,48.0,13.6,226,4829,female,2012
+Macaroni,Ross,37.8,17.0,182,5954,female,2010
+Emperor,Ross,50.7,18.2,217,5235,male,2010
+King,Macquarie,58.3,13.2,186,5595,female,2011
+Macaroni,South Georgia,42.9,14.0,204,4051,male,2010
+King,South Georgia,55.5,13.4,228,5583,male,2010
+Macaroni,Macquarie,58.3,19.4,173,4506,female,2010
+King,South Georgia,56.6,21.0,208,5942,female,2010
+King,South Georgia,56.2,13.2,196,5754,female,2010
+Emperor,Macquarie,52.4,16.3,230,3722,female,2011
+Macaroni,South Georgia,55.3,17.1,180,4397,female,2011
+Emperor,Ross,41.0,13.5,223,3353,female,2010
+Macaroni,South Georgia,40.7,13.9,194,3641,male,2012
+King,Macquarie,43.3,15.7,178,3386,male,2010
+Macaroni,Ross,50.2,20.0,199,4919,male,2011
+Macaroni,Macquarie,48.0,14.8,227,5394,female,2010
+Emperor,South Georgia,58.8,19.6,198,3549,female,2012
+King,South Georgia,57.5,19.0,181,4810,male,2012
+King,Macquarie,59.5,13.6,175,3164,female,2011
+King,South Georgia,40.0,19.9,201,5902,male,2010
+King,Ross,47.9,19.6,223,4770,female,2010
+King,Ross,59.8,14.0,188,5041,female,2011
+King,Macquarie,37.6,13.4,207,3993,male,2011
+King,Macquarie,48.5,17.0,231,5368,female,2010
+Macaroni,Ross,45.6,14.2,191,5872,female,2012
+Macaroni,Macquarie,38.7,15.6,178,3200,male,2010
+Emperor,South Georgia,59.4,16.2,203,3146,female,2012
+Macaroni,Macquarie,50.0,17.4,224,3410,male,2010
+Emperor,South Georgia,38.2,20.6,230,5840,female,2010
+King,South Georgia,58.8,20.0,220,3552,female,2011
+Emperor,Macquarie,59.3,13.7,211,3469,female,2011
+Emperor,Ross,39.7,18.6,180,4405,female,2010
+Macaroni,Ross,57.2,13.5,208,4598,male,2011
+Macaroni,Ross,54.8,15.1,231,4887,female,2010
+Emperor,South Georgia,39.7,20.7,231,3590,male,2012
+Macaroni,Macquarie,45.5,16.0,195,3588,female,2011
+Emperor,South Georgia,35.2,15.3,188,5229,male,2011
+King,South Georgia,36.8,16.6,233,4315,female,2011
+Emperor,South Georgia,56.5,13.5,180,5724,male,2010
+Emperor,South Georgia,43.7,14.8,214,5013,male,2012
+Macaroni,South Georgia,40.0,20.9,240,5393,female,2011
+King,Macquarie,56.0,18.1,171,4326,female,2010
+Emperor,Macquarie,51.8,13.6,210,5158,male,2011
+King,Ross,47.4,19.7,178,4177,male,2011
+King,South Georgia,56.7,14.0,192,4287,female,2011
+King,South Georgia,36.8,17.5,220,3022,female,2012
+Emperor,Macquarie,39.9,19.4,234,4985,female,2010
+King,South Georgia,38.3,16.0,171,5931,male,2012
+Emperor,Macquarie,37.3,17.3,180,3786,female,2011
+Emperor,Ross,59.3,15.5,209,3843,female,2011
+King,Macquarie,46.8,16.6,174,3463,male,2010
+King,Macquarie,46.2,20.8,230,3278,male,2012
+Macaroni,Ross,36.7,17.7,189,3891,female,2011
+Emperor,South Georgia,47.0,18.3,208,3024,male,2012
+King,Macquarie,51.8,17.4,206,5742,female,2012
+King,Macquarie,43.0,15.6,201,4978,female,2012
+King,South Georgia,55.0,19.9,217,4694,female,2012
+Macaroni,Ross,59.1,14.4,203,3116,female,2011
+Emperor,South Georgia,40.2,18.8,194,5609,male,2011
+King,Macquarie,37.0,20.6,211,5895,male,2011
+Macaroni,Ross,39.9,20.7,221,3509,female,2010
+Macaroni,Macquarie,51.2,17.0,229,5160,female,2011
+Emperor,South Georgia,39.0,15.0,229,3140,female,2011
+King,Ross,48.5,20.0,212,5464,male,2010
+Emperor,Ross,59.8,19.3,216,4140,male,2012
+King,South Georgia,35.7,16.5,200,3612,male,2012
+Macaroni,South Georgia,53.5,16.7,204,3808,male,2011
+Macaroni,Ross,41.3,18.7,226,5282,male,2010
+King,Ross,40.7,16.5,179,5483,male,2012
+Macaroni,Macquarie,58.7,18.7,234,3234,male,2012
+King,South Georgia,53.0,19.5,212,5165,female,2010
+Emperor,Macquarie,58.7,14.6,209,3424,female,2012
+Emperor,South Georgia,52.6,13.5,178,5192,male,2011
+Emperor,Ross,51.8,15.7,222,3865,female,2012
+Macaroni,South Georgia,53.5,18.0,240,3136,male,2011
+Macaroni,Macquarie,39.3,14.1,239,4961,female,2010
+Macaroni,Ross,55.1,13.3,205,4792,female,2010
+King,Macquarie,59.6,15.6,179,4027,male,2011
+Emperor,South Georgia,49.4,13.6,223,4540,male,2012
+Macaroni,Ross,54.8,14.6,212,5551,female,2011
+Macaroni,South Georgia,44.1,18.0,194,4647,male,2010
+Emperor,South Georgia,42.5,14.6,213,5595,female,2011
+Emperor,Macquarie,41.1,18.0,220,3486,male,2012
+Emperor,Ross,41.6,14.5,237,5693,male,2012
+Macaroni,South Georgia,49.4,14.5,219,5486,female,2010
+King,Ross,54.7,17.5,211,3099,male,2011
+Macaroni,South Georgia,40.4,18.1,182,5783,female,2011
+Macaroni,Macquarie,56.4,14.3,170,3566,male,2011
+Emperor,South Georgia,46.0,15.0,213,4751,female,2012
+Macaroni,Macquarie,52.1,15.0,204,3710,male,2011
+Emperor,South Georgia,49.0,20.8,224,3868,male,2012
+Macaroni,Macquarie,38.0,19.8,230,5704,male,2010
+Emperor,South Georgia,58.4,13.4,209,5216,male,2011
+Emperor,South Georgia,48.5,15.9,223,4590,female,2010
+Macaroni,Macquarie,35.8,18.4,229,5998,male,2011
+Macaroni,Macquarie,36.9,18.4,202,5028,male,2012
+Macaroni,South Georgia,45.4,13.5,232,3582,female,2011
+Macaroni,Ross,36.1,17.2,209,5183,male,2011
+Emperor,Ross,49.6,19.1,226,5393,female,2011
+King,South Georgia,42.3,20.5,226,5844,male,2012
+Macaroni,Macquarie,54.0,19.5,197,3348,female,2012
+Macaroni,Macquarie,59.1,19.5,177,5878,female,2012
+Emperor,Ross,51.9,15.8,230,5300,male,2012
+Emperor,Macquarie,35.7,20.1,234,3053,male,2012
+Emperor,Ross,56.5,13.1,208,3058,male,2010
+Emperor,South Georgia,50.4,18.2,205,5931,female,2012
+Emperor,Ross,47.6,16.7,185,5103,male,2011
+Emperor,South Georgia,35.5,14.0,218,4032,male,2011
+King,Macquarie,46.2,17.5,207,4585,male,2011
+King,Ross,45.5,19.7,199,3397,male,2012
+Macaroni,Ross,52.8,15.7,232,3347,male,2010
+Emperor,Ross,51.9,13.4,186,3620,male,2011
+Macaroni,Ross,36.6,18.6,238,4840,male,2010
+Emperor,Ross,45.5,20.2,239,3204,male,2010
+Macaroni,Ross,44.5,13.2,185,4554,female,2011
+King,Macquarie,43.6,20.1,211,5060,male,2010
+Macaroni,Ross,38.8,13.8,193,5971,female,2012
+Macaroni,South Georgia,59.2,15.0,227,3953,male,2011
+King,South Georgia,49.6,19.1,208,3893,male,2012
+Emperor,Macquarie,53.9,17.8,195,5039,male,2012
+King,Macquarie,56.9,19.3,196,3368,male,2010
+Macaroni,Ross,41.8,20.7,239,5479,female,2010
+Macaroni,Ross,42.4,17.3,240,4749,female,2010
+Macaroni,South Georgia,36.1,17.6,175,5775,female,2012
+King,Macquarie,41.9,19.0,207,3912,male,2010
+Emperor,South Georgia,37.2,17.1,182,3603,female,2011
+Macaroni,South Georgia,35.0,14.5,219,3169,female,2010
+Macaroni,South Georgia,50.1,17.0,225,3850,female,2011
+Macaroni,Ross,56.9,20.1,231,3434,male,2011
+Emperor,Macquarie,36.9,18.5,220,5690,female,2011
+King,South Georgia,35.0,19.7,221,4878,male,2010
+King,South Georgia,48.2,19.8,197,4925,female,2011
+Macaroni,Macquarie,42.8,17.8,197,3931,female,2012
+Emperor,Macquarie,49.4,13.7,214,5369,male,2011
+King,Ross,52.2,18.7,214,5007,female,2011
+Emperor,Ross,35.3,15.6,211,3392,male,2012
+Macaroni,South Georgia,59.5,15.8,209,3795,male,2012
+Emperor,Ross,56.3,14.5,175,3285,female,2010
+Macaroni,Ross,39.7,18.1,231,3306,female,2012
+Emperor,Ross,45.3,13.1,183,3938,female,2010
+Macaroni,South Georgia,39.5,13.6,174,3050,male,2011
+King,Macquarie,35.1,17.4,232,4919,female,2011
+Emperor,Macquarie,45.1,18.2,222,4014,female,2011
+Macaroni,Macquarie,53.0,16.9,191,5432,female,2011
+King,South Georgia,45.0,19.8,194,3374,male,2011
+Macaroni,Ross,43.8,18.8,224,3032,male,2011
+Macaroni,Macquarie,44.2,13.3,225,3354,male,2011
+Emperor,South Georgia,45.4,13.5,172,3587,male,2010
+Macaroni,Macquarie,39.6,14.9,230,4528,female,2011
+King,Macquarie,40.9,17.2,223,3686,male,2012
+Macaroni,South Georgia,52.8,14.6,239,3013,male,2010
+King,Macquarie,44.4,20.6,225,4876,male,2012
+King,South Georgia,43.7,18.3,197,4644,male,2012
+King,Ross,48.7,20.6,189,3406,female,2010
+Emperor,Macquarie,45.0,18.9,176,4906,male,2011
+Emperor,South Georgia,45.7,19.0,179,3693,male,2011
+Emperor,South Georgia,43.7,19.6,199,4862,female,2010
+Emperor,South Georgia,45.6,20.1,181,3255,male,2012
+King,Ross,36.0,14.5,173,4981,female,2011
+Emperor,Macquarie,52.1,20.9,196,5269,female,2011
+Macaroni,Macquarie,51.3,17.6,213,5416,female,2012
+King,South Georgia,39.1,20.6,223,5813,male,2011
+Emperor,Ross,57.2,18.1,177,3349,male,2012
+Emperor,Ross,43.3,16.7,214,5754,female,2011
+Macaroni,Macquarie,56.0,14.0,206,5359,female,2012
+King,Ross,37.2,14.9,226,3660,male,2011
+Macaroni,South Georgia,57.1,19.4,184,3642,male,2012
+Macaroni,Macquarie,46.5,17.3,227,5771,female,2011
+Emperor,Macquarie,57.3,19.4,237,3656,female,2012
+Emperor,Macquarie,51.0,20.0,193,4454,male,2011
+Emperor,Ross,42.3,14.2,212,3607,male,2012
+Macaroni,Macquarie,48.0,15.4,194,3632,female,2012
+Emperor,South Georgia,44.5,21.0,237,5403,male,2012
+King,Ross,38.6,17.0,178,3775,male,2012
+King,South Georgia,51.2,13.4,183,3974,male,2012
+Emperor,South Georgia,52.7,20.5,223,3543,female,2011
+Emperor,Macquarie,37.1,19.7,197,4343,male,2011
